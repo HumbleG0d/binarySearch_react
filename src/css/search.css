@@ -1,0 +1,8 @@
+.search {
+  display: flex;
+  gap: 0px 10px;
+}
+
+.button__seeker {
+  padding: 5px 15px;
+}
